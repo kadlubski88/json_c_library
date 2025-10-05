@@ -6,3 +6,10 @@
 //# Copyright © 2025 Georges Kadlubski                                      #
 //# URL: https://mit-license.org/                                           #
 //###########################################################################
+
+#include "../inc/json.h"
+
+void hello(void) {
+    printf("Hello Welt!!!");
+    return;
+}
